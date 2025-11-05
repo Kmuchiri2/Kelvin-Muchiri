@@ -1,0 +1,5 @@
+{
+  "name": "Financial Dashboard",
+  "description": "A web application to display a public financial summary and provide a protected management dashboard for transaction management and reporting.",
+  "requestFramePermissions": []
+}
